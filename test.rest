@@ -1,0 +1,14 @@
+###
+GET http://localhost:13370
+
+###
+POST http://localhost:13370
+Content-Type: application/json
+
+{
+    "name": "tamer",
+    "location": "en short"
+}
+
+###
+GET http://localhost:13370/setup

@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/vagrant/config":{"guestpath":"/home/vagrant/config","hostpath":"C:/Travail/mon_projet_vagrant/commun/vm3","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Travail/mon_projet_vagrant/commun/vm3","disabled":false,"__vagrantfile":true}}}
